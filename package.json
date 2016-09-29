@@ -1,0 +1,23 @@
+{
+  "name": "github-release-test",
+  "version": "0.0.1",
+  "description": "github repo for testing automated versioning and changelogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveashworth/github-release-test.git"
+  },
+  "author": "dave ashworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveashworth/github-release-test/issues"
+  },
+  "homepage": "https://github.com/daveashworth/github-release-test#readme",
+  "dependencies": {
+    "github": "^3.1.1"
+  }
+}
+
