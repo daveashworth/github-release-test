@@ -1,3 +1,5 @@
+dist
+
 *.min.*
 build
 node_modules
