@@ -3,8 +3,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## 2016-10-28 - [5.1.6 - current version]
+## 2016-10-28 - [5.1.7 - current version]
 
+- 5.1.7 - ([99fb788](https://github.com/daveashworth/github-release-test/commit/99fb78892e28baeac0a9b632e501ede46bf4b583)) - change an option (@daveashworth)
 - 5.1.6 - ([44c3e8b](https://github.com/daveashworth/github-release-test/commit/44c3e8b70b64cd8af5188d2432478b8f409a763a)) - bumps startVersion again (@daveashworth)
 - 5.1.5 - ([55c1279](https://github.com/daveashworth/github-release-test/commit/55c1279c91087875fc7ae167678058948055c537)) - bumping version again (@daveashworth)
 - 5.1.4 - ([00e159b](https://github.com/daveashworth/github-release-test/commit/00e159bfd593d5afde6a100c864c7ecc8e2e9c39)) - bumps startVersion (@daveashworth)
@@ -28,3 +29,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## 2016-09-28
 
 - 4.0.1 - ([83fa42b](https://github.com/daveashworth/github-release-test/commit/83fa42bc057d3f70e1e820da9a9db472d604b12b)) - Initial commit (@daveashworth)
+
