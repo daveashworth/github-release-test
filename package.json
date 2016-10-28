@@ -1,6 +1,7 @@
 {
   "name": "github-release-test",
   "version": "1.1.2",
+  "startVersion": "2.0.0",
   "description": "github repo for testing automated versioning and changelogs",
   "main": "index.js",
   "scripts": {
