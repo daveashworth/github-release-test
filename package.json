@@ -1,6 +1,6 @@
 {
   "name": "github-release-test",
-  "version": "5.1.7",
+  "version": "5.1.8",
   "startVersion": "4.0.0",
   "description": "github repo for testing automated versioning and changelogs",
   "main": "index.js",
