@@ -1,7 +1,11 @@
 {
   "name": "github-release-test",
   "version": "5.1.9",
-  "startVersion": "4.0.0",
+  "gsv": {
+    "major-label": "Version: Major",
+    "minor-label": "Version: Minor",
+    "patch-label": "Version: Patch"
+  },
   "description": "github repo for testing automated versioning and changelogs",
   "main": "index.js",
   "scripts": {
