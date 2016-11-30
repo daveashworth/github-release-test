@@ -1,7 +1,8 @@
 {
   "name": "github-release-test",
-  "version": "5.1.9",
+  "version": "2.1.11",
   "gsv": {
+    "startVersion": "2.0.0",
     "major-label": "Version: Major",
     "minor-label": "Version: Minor",
     "patch-label": "Version: Patch"
