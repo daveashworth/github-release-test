@@ -1,9 +1,8 @@
 # github-release-test
-Repo for testing out some automatic versioning and change log generation
 
-To force a recalculation of the version number use:
+This is a throwaway repo used for testing auto changelog generation, auto push to github, and auto npm publish. Don't expect to gain anything useful from this repo. It's a wasteland of nothing.
 
-```
-github-release-test -h -f
-```
+Looking North in the wasteland however, you find an old parchment on the ground. Do you:
 
+- (A) Pick it up?
+- (B) Kick it and keep walking because I told you this was a wasteland.

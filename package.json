@@ -10,7 +10,8 @@
   "description": "github repo for testing automated versioning and changelogs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "github-semantic-version --bump --changelog --push"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "homepage": "https://github.com/daveashworth/github-release-test#readme",
   "dependencies": {
     "github": "^3.1.1"
+  },
+  "devDependencies": {
+    "github-semantic-version": "^6.0.0"
   }
 }
